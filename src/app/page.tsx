@@ -49,10 +49,10 @@ export default function LandingPage() {
             tag="🚀 Early Access"
             mediaItems={[
               {
-                imageSrc: "http://img.b2bpic.net/free-photo/abstract-blue-background-with-many-small-details-generative-ai_169016-30136.jpg",                imageAlt: "AI Interface"
+                imageSrc: "http://img.b2bpic.net/free-photo/abstract-blue-background-with-many-small-details-generative-ai_169016-30136.jpg?_wi=1",                imageAlt: "AI Interface"
               },
               {
-                imageSrc: "http://img.b2bpic.net/free-photo/3d-render-modern-technology-background-with-digital-particles-design_1048-15444.jpg",                imageAlt: "Neural Network"
+                imageSrc: "http://img.b2bpic.net/free-photo/3d-render-modern-technology-background-with-digital-particles-design_1048-15444.jpg?_wi=1",                imageAlt: "Neural Network"
               }
             ]}
             mediaAnimation="blur-reveal"
@@ -127,8 +127,8 @@ export default function LandingPage() {
             useInvertedBackground={false}
             plans={[
               { id: "p1", title: "Starter", price: "$29", period: "/mo", features: ["100 AI Generations", "Basic Automation", "Community Support"], button: { text: "Get Started" }, imageSrc: "http://img.b2bpic.net/free-photo/cosmic-background-with-dark-light-blue-laser-lights_181624-21201.jpg" },
-              { id: "p2", title: "Pro", price: "$79", period: "/mo", features: ["Unlimited Generations", "Advanced Automation", "Priority Support"], button: { text: "Get Pro" }, imageSrc: "http://img.b2bpic.net/free-photo/abstract-blue-background-with-many-small-details-generative-ai_169016-30136.jpg" },
-              { id: "p3", title: "Scale", price: "$199", period: "/mo", features: ["Enterprise API Access", "Custom Integrations", "Dedicated Manager"], button: { text: "Contact Us" }, imageSrc: "http://img.b2bpic.net/free-photo/3d-render-modern-technology-background-with-digital-particles-design_1048-15444.jpg" }
+              { id: "p2", title: "Pro", price: "$79", period: "/mo", features: ["Unlimited Generations", "Advanced Automation", "Priority Support"], button: { text: "Get Pro" }, imageSrc: "http://img.b2bpic.net/free-photo/abstract-blue-background-with-many-small-details-generative-ai_169016-30136.jpg?_wi=2" },
+              { id: "p3", title: "Scale", price: "$199", period: "/mo", features: ["Enterprise API Access", "Custom Integrations", "Dedicated Manager"], button: { text: "Contact Us" }, imageSrc: "http://img.b2bpic.net/free-photo/3d-render-modern-technology-background-with-digital-particles-design_1048-15444.jpg?_wi=2" }
             ]}
             title="Affordable for everyone."
             description="Flexible plans to grow with your vision."
