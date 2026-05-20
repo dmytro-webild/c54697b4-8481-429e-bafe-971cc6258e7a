@@ -63,11 +63,11 @@ export default function LandingPage() {
       tag="🚀 Early Access"
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/abstract-blue-background-with-many-small-details-generative-ai_169016-30136.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/abstract-blue-background-with-many-small-details-generative-ai_169016-30136.jpg?_wi=1",
           imageAlt: "AI Interface",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/3d-render-modern-technology-background-with-digital-particles-design_1048-15444.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/3d-render-modern-technology-background-with-digital-particles-design_1048-15444.jpg?_wi=1",
           imageAlt: "Neural Network",
         },
         {
@@ -243,7 +243,7 @@ export default function LandingPage() {
           button: {
             text: "Get Pro",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/abstract-blue-background-with-many-small-details-generative-ai_169016-30136.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/abstract-blue-background-with-many-small-details-generative-ai_169016-30136.jpg?_wi=2",
           imageAlt: "Cosmic background with dark and light blue laser lights",
         },
         {
@@ -259,7 +259,7 @@ export default function LandingPage() {
           button: {
             text: "Contact Us",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/3d-render-modern-technology-background-with-digital-particles-design_1048-15444.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/3d-render-modern-technology-background-with-digital-particles-design_1048-15444.jpg?_wi=2",
           imageAlt: "Cosmic background with dark and light blue laser lights",
         },
       ]}
